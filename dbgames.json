@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Battlestar Galactica Online",
+      "descricao": "Battlestar Galactica Online foi um multiplayer massivo online baseado na série de televisão Battlestar Galactica.",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Naruto Online",
+      "descricao": "Naruto Online é um MMORPG de browser em turnos, completamente dentro do universo de Naruto.",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "DarkOrbit",
+      "descricao": "Darkorbit é um massive multiplayer online game desenvolvido pela Bigpoint GmbH.",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    }
+  ]
+}
